@@ -1,0 +1,23 @@
+{
+  "overview": "Regex Debugger Sheet is a compact one-page reference for developers who need common regex syntax, anchors, quantifiers, and flags at a glance. It includes 16 copy-paste patterns and a flag cheat sheet to speed up everyday matching tasks. It is designed as a quick lookup aid, not a full regex course or engine-specific guarantee.",
+  "usecases": [
+    "You are debugging a failing validation rule and need to quickly check anchor or quantifier syntax.",
+    "You are writing a new input pattern and want a safe starting template before customizing it.",
+    "You are onboarding a junior developer and need a shared, concise regex reference during code review."
+  ],
+  "howto": [
+    "Download the file after purchase.",
+    "Open it in your PDF viewer or browser.",
+    "Copy the relevant pattern or flag notation into your regex tool or code."
+  ],
+  "faq": [
+    {
+      "q": "Will every pattern work exactly the same in my regex engine?",
+      "a": "No, always test patterns in your specific engine and context before using them in production."
+    },
+    {
+      "q": "Is this a complete regex tutorial?",
+      "a": "No, it is a concise reference sheet for common syntax and patterns rather than an in-depth learning guide."
+    }
+  ]
+}
