@@ -1,0 +1,17 @@
+[
+  {
+    "name": "droid-term",
+    "url": "https://LinuxGuru999.github.io/shotgun-droid-term/",
+    "tagline": "Bootstrap a productive terminal environment on Android"
+  },
+  {
+    "name": "droid-use",
+    "url": "https://LinuxGuru999.github.io/shotgun-droid-use/",
+    "tagline": "Local ADB and Shizuku shell toolkit for Android"
+  },
+  {
+    "name": "DevKit CLI",
+    "url": "https://LinuxGuru999.github.io/shotgun-devkit-cli/",
+    "tagline": "A pocket CLI for everyday developer chores"
+  }
+]
